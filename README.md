@@ -67,13 +67,13 @@ all decent men detest them.
 
 Weapons are tools of fear;
 decent men will avoid them
-except in the direst necessity.
-They are to be used only with
-the utmost restraint.
+except in the most dire of situations,
+and even then, they are be used 
+only with the utmost restraint.
 Peace is the highest value.
 If peace is destroyed,
 how can man be content?
-Mankind's enemies are not demons,
+Man's enemies are not demons,
 they are human beings like ourselves.
 Good men do not wish harm on others,
 nor rejoice in victory by violent means.
@@ -87,6 +87,11 @@ as if they were attending a funeral.
 ## 32
 
 ## 33
+
+Knowing others is intelligence;
+knowing yourself is true wisdom.
+Mastering others is strength,
+mastering yourself is true power.
 
 ## 34
 
