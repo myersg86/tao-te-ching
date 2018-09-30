@@ -61,7 +61,7 @@
 ## 30
 
 ## 31
-
+```
 Weapons are tools of violence;
 all decent men detest them.
 
@@ -83,7 +83,7 @@ in the slaughter of our brothers and sisters.
 Wise men enter a battle gravely,
 with sorrow and with great compassion,
 as if they were attending a funeral.
-
+```
 ## 32
 
 ## 33
@@ -91,7 +91,7 @@ as if they were attending a funeral.
 Knowing others is intelligence;
 knowing yourself is true wisdom.
 Mastering others is strength,
-mastering yourself is true power.
+mastering yourself is t
 
 ## 34
 
