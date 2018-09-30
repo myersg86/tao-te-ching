@@ -1,5 +1,7 @@
 # Tao Te Ching: A New Modern Translation
 
+## Introduction
+
 ## 1
 
 ## 2
@@ -69,7 +71,7 @@ all decent men detest them.
 Weapons are tools of fear;
 decent men will avoid them
 except in the most dire of situations,
-and even then, they are be used 
+and even then, they are be used
 only with the utmost restraint.
 Peace is the highest value.
 If peace is destroyed,
@@ -78,7 +80,7 @@ Man's enemies are not demons,
 they are human beings like ourselves.
 Good men do not wish harm on others,
 nor rejoice in victory by violent means.
-How can one rejoice in victory and delight 
+How can one rejoice in victory and delight
 in the slaughter of our brothers and sisters.
 
 Wise men enter a battle gravely,
