@@ -61,6 +61,7 @@
 ## 30
 
 ## 31
+
 ```
 Weapons are tools of violence;
 all decent men detest them.
@@ -84,14 +85,17 @@ Wise men enter a battle gravely,
 with sorrow and with great compassion,
 as if they were attending a funeral.
 ```
+
 ## 32
 
 ## 33
 
+```
 Knowing others is intelligence;
 knowing yourself is true wisdom.
 Mastering others is strength,
-mastering yourself is t
+mastering yourself is true power.
+```
 
 ## 34
 
@@ -133,6 +137,7 @@ mastering yourself is t
 
 ## 53
 
+```
 Life can be simple and easy,
 but people prefer to make it difficult.
 Be aware when things are out of balance,
@@ -147,6 +152,7 @@ while the poor have nowhere to turn -
 all this is robbery and chaos.
 This is not the natural order of the universe,
 this is not the way to enlignenment.
+```
 
 ## 54
 
