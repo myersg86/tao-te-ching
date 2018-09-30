@@ -62,6 +62,14 @@
 
 ## 31
 
+Weapons are tools of violence;
+all decent men detest them.
+
+Weapons are tools of fear;
+decent men will avoid them
+except in the direst necessity
+and, if compelled, will
+
 ## 32
 
 ## 33
