@@ -151,7 +151,7 @@ when the upper class is extravagant and irresponsible,
 while the poor have nowhere to turn -
 all this is robbery and chaos.
 This is not the natural order of the universe,
-this is not the way to enlignenment.
+this is not the way to enlightenment.
 ```
 
 ## 54
