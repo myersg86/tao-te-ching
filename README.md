@@ -67,8 +67,22 @@ all decent men detest them.
 
 Weapons are tools of fear;
 decent men will avoid them
-except in the direst necessity
-and, if compelled, will
+except in the direst necessity.
+They are to be used only with
+the utmost restraint.
+Peace is the highest value.
+If peace is destroyed,
+how can man be content?
+Mankind's enemies are not demons,
+they are human beings like ourselves.
+Good men do not wish harm on others,
+nor rejoice in victory by violent means.
+How can one rejoice in victory and delight 
+in the slaughter of our brothers and sisters.
+
+Wise men enter a battle gravely,
+with sorrow and with great compassion,
+as if they were attending a funeral.
 
 ## 32
 
