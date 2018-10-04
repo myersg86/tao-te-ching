@@ -1,5 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Tao Te Ching: A New Modern Translation](README.md)
 * [31](31.md)
+* [54](54.md)
+* [34](34.md)
 
