@@ -1,6 +1,0 @@
-image: alpine:latest
-
-test:
-  script:
-  - apk add curl
-  - curl icanhazip.com
